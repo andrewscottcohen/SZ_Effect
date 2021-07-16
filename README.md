@@ -2,7 +2,7 @@
 ANDREW COHEN
 12/13/20
 
-ABSTRACT
+## ABSTRACT
 I present analysis of 4195 optically confirmed SZ galaxy clusters. Python was used to plot relationships between cluster mass, redshift, right ascension angle, and calculate the distortion of the Planck spectrum due to the SZ effect.
 
 
